@@ -14,3 +14,9 @@
 main > .container {
   padding: 30px 15px 0;
 }
+
+@media (min-width: 768px) {
+  .news-image {
+    max-width: 280px;
+  }
+}
