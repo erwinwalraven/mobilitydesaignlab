@@ -1,0 +1,10 @@
+title: Mobility DesAIgn Lab kickoff in Amsterdam
+date: 12-10-2025
+summary: Our lab has officially started with a kickoff with all consortium partners, hosted by the AMS Institute. All work packages discussed research directions and identified first steps for the use cases.
+image: kickoff.png
+
+<p>We have started! At the kick‑off of the Mobility DesAIgn Lab at the AMS Institute, our main goal was met: partners got to know each other, and what they bring. Jan Gossink from the Vervoerregio Amsterdam (VRA) set the tone with an inspiring talk on Amsterdam's new metro network: the process, stakeholders, variants, political sensitivity, and citizen participation. After the first part two workshops have been organized.</p>
+
+<p>In the technical workshop, partners underlined the central role of transport models in prescriptive digital twins and flagged the risk of AI pushing parameters beyond valid ranges. Working with microdata is challenging; population synthesis and microsimulation were noted as promising avenues. Both objective and subjective safety indicators were discussed, and we distinguished design problems from real‑time operational use, identifying opportunities for real‑time components at mobility hubs.</p>
+
+<p>In the ELSA & Policy Lab workshop, each partner outlined their contributions and goals. The Policy Lab will guide the use case and ELSA questions, keeping stakeholder and citizen engagement central. Vervoerregio Amsterdam presented the mobility use case and explained the decision‑making process. We brainstormed relevant indicators and participation strategies and concluded with a clear action overview to kick‑start the lab.</p>

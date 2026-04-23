@@ -1,0 +1,10 @@
+title: Four projects launched in NGF-Call AiNed ELSA Labs
+date: 18-4-2025
+summary: NWO has funded four projects in the NGF call AiNed ELSA Labs. Mobility DesAIgn Lab received funding to study the ethical, legal, societal, and economic implications of using prescriptive digital twins for mobility system design.
+image: ngf-call.png
+
+<p>NWO launches four new ELSA Labs under the NGF AiNed call, accelerating research into the Ethical, Legal, Societal and economic Aspects (ELSA) of Artificial Intelligence. As AI reshapes industry and public services at high speed, the Labs will help ensure development is human‑centric—grounded in public values, compliant with regulation, and translated into real‑world practice. Working from concrete public and private cases, the consortia will not only explore AI's added value but also address risks, governance, accountability, and opportunities for broad societal benefit and economic strength.</p>
+
+<p>The ELSA Lab for Technical Industry (main applicant Ming Cao, University of Groningen; technical lead Rainer Harms, University of Twente) focuses on responsible AI adoption in manufacturing, especially for SMEs. Legal, Regulatory, and Policy Aspects of Clinical Decision Support Systems (main applicant Johan Kwisthout; technical lead Marcos de Paula Bueno, Radboud University) examines how certified AI for healthcare can be made trustworthy for clinicians and patients. The ELSA Lab AI for Health Equity (main applicant Anniek de Ruijter; technical lead J.C.M. van Weert, University of Amsterdam) develops methods to prevent bias and promote fairness in medical AI. Finally, the Mobility DesAIgn Lab (main applicant Maaike Snelder, TNO; technical lead E. Walraven, TNO) studies responsible use of AI‑enabled prescriptive digital twins for urban mobility, covering sustainable mobility, car‑restrictive policies, and future traffic management, to inform practice and the evolution of AI regulation.</p>
+
+<p>More information is available at <a href="https://www.nwo.nl/en/news/four-research-projects-launched-for-ngf-call-ained-elsa-labs" target="_blank">NWO</a>.</p>
