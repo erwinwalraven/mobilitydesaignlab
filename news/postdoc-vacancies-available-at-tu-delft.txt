@@ -1,8 +1,0 @@
-title: Postdoc vacancies available at TU Delft
-date: 18-12-2025
-summary: Currently we offer two postdoc vacancies at Delft University of Technology. The postdocs will closely collaborate with fellow researchers from TNO and other consortium partners.
-image: lab-image.png
-
-<p>Currently we offer two postdoc vacancies at Delft University of Technology. The postdocs will closely collaborate with fellow researchers from TNO and other consortium partners. We expect to finalize the hiring process in the first months of 2026.</p>
-
-<p>More details about the vacancies can be found on the Vacancies page.</p>
